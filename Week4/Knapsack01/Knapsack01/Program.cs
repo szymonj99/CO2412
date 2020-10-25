@@ -50,9 +50,6 @@ namespace Knapsack01
             Item flashlight = new Item("Flashlight", 3, 2);
             items.Add(flashlight);
 
-            Item matchsticks = new Item("Matchsticks", 3, 6);
-            items.Add(matchsticks);
-
             foreach (Item item in items)
             {
                 Console.WriteLine(item);
@@ -94,9 +91,6 @@ namespace Knapsack01
 
             stopwatch.Stop();
             Console.WriteLine("{0} items took {1} ms", items.Count, stopwatch.ElapsedMilliseconds);
-
-            Console.WriteLine("Items taken:");
-            foreach ()
 
             Console.WriteLine("Best Enumeration: {0} \tWeight: {1} \tValue: {2} ", BestEnumeration, BestEnumerationWeight, CurrentBestValue);
 
