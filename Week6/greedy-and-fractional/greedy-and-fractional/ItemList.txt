@@ -1,0 +1,10 @@
+Screwdriver,7,10
+Hammer,12,15
+Allen Keys,3,6
+Saw,11,12
+Nail Gun,21,15
+Wrench,15,17
+Socket Set,13,16
+Spade,23,26
+Pick,21,25
+Spanners,22,26
