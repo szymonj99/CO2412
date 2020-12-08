@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="PriorityQueue">
+      <HintPath>..\..\PriorityQueue\PriorityQueue\bin\Debug\netstandard2.0\PriorityQueue.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
